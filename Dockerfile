@@ -1,2 +1,2 @@
-FROM python:3-alpine
+FROM pypy
 RUN pip3 install flask requests
